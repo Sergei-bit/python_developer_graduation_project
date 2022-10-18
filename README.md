@@ -15,9 +15,7 @@
 
 + дроны должны атаковать вражеские базы командой
 
-```
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-```
+![tactics](.\tactics\s5.png)
 
 ### 📂В папке strategy_osadchy файлы с кодом моей стратегии
 

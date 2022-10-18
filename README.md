@@ -15,6 +15,7 @@
 
 + дроны должны атаковать вражеские базы командой
 
+
 ![tactics](https://github.com/Sergei-bit/python_developer_graduation_project/blob/master/tactics/s5.png)
 
 ### 📂В папке strategy_osadchy файлы с кодом моей стратегии

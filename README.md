@@ -21,3 +21,6 @@
 >>
 >> ➡️  resource_build_strategy.py ⚪️ сбор ресурсов
 >>
+
+
+![PyPI](https://img.shields.io/pypi/v/robogame-engine?label=robogame-engine)  ![PyPI](https://img.shields.io/pypi/v/astrobox?label=astrobox)  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
